@@ -1,0 +1,22 @@
+body {
+  background-color: lightgrey;
+  border:	5px dotted darkgrey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size:	80px;
+}
+
+li {
+  font-family: verdana;
+  font-size: 20px;
+  
+}
+
+p{
+	font-size:	20px;
+	text-align:	center;
+	font-family:	verdana;
+}
